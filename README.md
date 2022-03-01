@@ -1,7 +1,9 @@
 # Frontend Mentor - Stats preview card component
 
-## Desktop view
+## Desktop View
 ![screencapture-127-0-0-1-5500-2022-03-01-13_42_12](https://user-images.githubusercontent.com/91652722/156135985-bbc30aac-55e1-4381-b86f-088305900e54.png)
+## Mobile View
+![screencapture-127-0-0-1-5500-2022-03-01-14_04_37](https://user-images.githubusercontent.com/91652722/156136325-43e6445f-b5e4-4079-8c49-eb375c50d2b5.png)
 
 ## Welcome! 👋
 
@@ -82,11 +84,5 @@ There are multiple places you can share your solution:
 We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
